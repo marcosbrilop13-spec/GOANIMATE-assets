@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'Sailec';
     font-weight: 100;
-    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Thin.eot');
-    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Thin.eot#iefix') format('embedded-opentype'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Thin.woff2') format('woff2'),url('../Sailec-Thin.woff') format('woff'),url('../Sailec-Thin.ttf') format('truetype');
+    src: url('../fonts/Sailec-Thin.eot');
+    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Thin.eot#iefix') format('embedded-opentype'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Thin.woff2') format('woff2'),url('../fonts/Sailec-Thin.woff') format('woff'),url('../fonts/Sailec-Thin.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Sailec';
     font-weight: 200;
     src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Light.eot');
-    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Light.eot#iefix') format('embedded-opentype'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Light.woff2') format('woff2'),url('../Sailec-Light.woff') format('woff'),url('../Sailec-Light.ttf') format('truetype');
+    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Light.eot#iefix') format('embedded-opentype'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Light.woff2') format('woff2'),url('../fonts/Sailec-Light.woff') format('woff'),url('../fonts/Sailec-Light.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Sailec';
