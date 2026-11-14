@@ -2,7 +2,7 @@
     font-family: 'Sailec';
     font-weight: 100;
     src: url('../Sailec-Thin.eot');
-    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Thin.eot#iefix') format('embedded-opentype'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Thin.woff2') format('woff2'),url('../Sailec-Thin.woff') format('woff'),url('../fonts/Sailec-Thin.ttf') format('truetype');
+    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Thin.eot#iefix') format('embedded-opentype'),url('../Sailec-Thin.woff2') format('woff2'),url('../Sailec-Thin.woff') format('woff'),url('../fonts/Sailec-Thin.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Sailec';
@@ -20,14 +20,14 @@
     font-family: 'Sailec';
     font-weight: 500;
     src: url('../Sailec-Medium.eot');
-    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.eot#iefix') format('embedded-opentype'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.woff2') format('woff2'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.woff') format('woff'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.ttf') format('truetype');
+    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.eot#iefix') format('embedded-opentype'),url('../Sailec-Medium.woff2') format('woff2'),url('../Sailec-Medium.woff') format('woff'),url('../Sailec-Medium.ttf') format('truetype');
 }
 /* font weight 500 and font weight 700 (bold) are the same for better integration support */
 @font-face {
     font-family: 'Sailec';
     font-weight: 700;
-    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.eot');
-    src: url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.eot#iefix') format('embedded-opentype'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.woff2') format('woff2'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.woff') format('woff'),url('/web/20191211095152im_/https://d2bm7x1jqouzel.cloudfront.net/fonts/1/Sailec-Medium.ttf') format('truetype');
+    src: url('../Sailec-Medium.eot');
+    src: url('../Sailec-Medium.eot#iefix') format('embedded-opentype'),url('../Sailec-Medium.woff2') format('woff2'),url('../Sailec-Medium.woff') format('woff'),url('../Sailec-Medium.ttf') format('truetype');
 }
 
 /*
